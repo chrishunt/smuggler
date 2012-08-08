@@ -1,4 +1,4 @@
-# Smuggler
+# <img src='https://raw.github.com/huntca/smuggler/master/img/ruby-jar-rotate.png' height='40' alt='smuggler logo' /> Smuggler
 
 **In Development**
 
