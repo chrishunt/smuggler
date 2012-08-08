@@ -4,9 +4,9 @@ require File.expand_path('../lib/smuggler/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.authors       = ["Chris Hunt"]
   gem.email         = ["c@squareup.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
-  gem.homepage      = ""
+  gem.description   = %q{Smuggle ruby gems into the jvm}
+  gem.summary       = %q{Smuggle ruby gems into the jvm by packaging them in jars.}
+  gem.homepage      = "https://github.com/huntca/smuggler"
 
   gem.files         = `git ls-files`.split($\)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }

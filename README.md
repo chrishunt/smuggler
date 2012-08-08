@@ -1,6 +1,8 @@
 # Smuggler
 
-TODO: Write a gem description
+**In Development**
+
+Smuggle ruby gems into the jvm by packaging them in jars.
 
 ## Installation
 
