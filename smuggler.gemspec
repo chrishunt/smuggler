@@ -14,4 +14,7 @@ Gem::Specification.new do |gem|
   gem.name          = "smuggler"
   gem.require_paths = ["lib"]
   gem.version       = Smuggler::VERSION
+
+  gem.add_development_dependency 'rake'
+  gem.add_development_dependency 'rspec'
 end
